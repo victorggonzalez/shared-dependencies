@@ -6,6 +6,7 @@
   "author": "Victor Gonzalez <victor.ggonzalez26@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@material-ui/core": "^4.12.3"
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/lab": "^4.0.0-alpha.60"
   }
 }
