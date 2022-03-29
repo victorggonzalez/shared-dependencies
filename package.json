@@ -1,0 +1,11 @@
+{
+  "name": "shared-dependencies",
+  "version": "1.0.0",
+  "description": "Repo for graasp shared dependencies",
+  "main": "index.js",
+  "author": "Victor Gonzalez <victor.ggonzalez26@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3"
+  }
+}
